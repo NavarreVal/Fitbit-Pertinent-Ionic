@@ -1,0 +1,73 @@
+.background {
+  viewport-fill: black;
+}
+
+#steps {
+  font-size: 24;
+  font-family: System-Bold;
+  text-length: 6;
+  text-anchor: start;
+  x: 75%;
+  y: 85%+10;
+  fill: white;  
+}
+
+#day {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 4;
+  text-anchor: middle;
+  x: 32%+0;
+  y: 72%;
+  fill: gray;
+}
+
+#date {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 6;
+  text-anchor: middle;
+  x: 32%;
+  y: 38%;
+  fill: gray;
+}
+
+#time {
+  font-size: 70;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 35%;
+  y: 50%+25;
+  fill: white;
+}
+
+#temperatureLabel {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: end;
+  x: 95%+0;
+  y: 25%+4;
+  fill: white;
+}
+
+#meteoLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: end;
+  x: 95%;
+  y: 38%;
+  fill: white;
+}
+
+#locationLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 20;
+  text-anchor: end;
+  x: 90%;
+  y: 13%+0;
+  fill: white;
+}
